@@ -1193,13 +1193,13 @@ section
 {
 	width: 100%;
 	background: #45A041;
-	padding-top: 156px;
+	padding-top: 50px;
 	padding-bottom: 161px;
 }
-.register_content
+//*.register_content
 {
 	width: 522px;
-}
+}*//
 .register_title
 {
 	color: #FFFFFF;
